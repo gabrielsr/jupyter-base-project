@@ -1,6 +1,7 @@
 
 1. create your environment
 ```console
+cd myproject
 conda env create -f environment.yml
 ```
 
