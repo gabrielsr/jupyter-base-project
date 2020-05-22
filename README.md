@@ -1,9 +1,15 @@
 
-* create your environment
- conda env create -f environment.yml
+1. create your environment
+```console
+conda env create -f environment.yml
+```
 
-* activate environment
- conda activate myproject
+2. activate environment
+```console
+conda activate myproject
+```
 
-* update dependencies
- conda env update
+3. update dependencies
+```console
+conda env update
+```
