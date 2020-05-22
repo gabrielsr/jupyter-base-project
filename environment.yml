@@ -1,0 +1,11 @@
+name: myproject
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8   # or 2.7
+  - numpy=1.18.*
+  - jupyterlab=2.*
+  - pandas=1.0.3
+  - pathlib
+
+
