@@ -14,3 +14,8 @@ conda activate myproject
 ```console
 conda env update
 ```
+
+3. Open Jupyter-lab
+```console
+jupyter-lab .
+```
